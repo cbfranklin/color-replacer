@@ -1,4 +1,4 @@
-# Color
+# Color Replacer
 Replace all colors in one stylesheet using the colors from another
 
 ## Usage
